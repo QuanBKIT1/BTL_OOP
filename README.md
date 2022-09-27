@@ -1,4 +1,4 @@
-# BTL OOP 2021.2 - Thầy Lê Tiến Thành
+# BTL OOP 2021.2 - Thầy Nguyễn Tiến Thành
 
 Happy Hospital - Chuyển từ mã TypeScript sang Java, cài đặt socket
 
